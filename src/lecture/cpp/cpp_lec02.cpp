@@ -5,6 +5,7 @@
 #include <cstdlib>
 #include <cstdio>
 #include <cstring>
+#include <stdio.h>
 
 class CodeTester {
     public:
